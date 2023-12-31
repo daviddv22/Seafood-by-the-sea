@@ -1,0 +1,3917 @@
+[
+    {
+        "name": "Cajun Seafood House",
+        "address": "2531 Rocky Ridge Rd",
+        "state": "AL",
+        "count": "(82)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Automatic Seafood and Oysters",
+        "address": "2824 5th Ave S",
+        "state": "AL",
+        "count": "(73)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#56"
+    },
+    {
+        "name": "Pappadeaux Seafood Kitchen",
+        "address": "3500 Grandview Pkwy",
+        "state": "AL",
+        "count": "(589)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Blueprint on 3rd",
+        "address": "3000 3rd Ave S",
+        "state": "AL",
+        "count": "(55)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#37"
+    },
+    {
+        "name": "Capeside Fish Company",
+        "address": "726 W Grand Ave",
+        "state": "AL",
+        "count": "(44)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Snapper Grabber's Land & Sea Cafe",
+        "address": "521 Montgomery Hwy",
+        "state": "AL",
+        "count": "(10)",
+        "pricepoint": "$",
+        "rating": "5.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Jubilee Joe's Cajun Seafood Restaurant",
+        "address": "5190 Medford Dr",
+        "state": "AL",
+        "count": "(236)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Bayou Fresh Seafood & Deli",
+        "address": "217 N Walston Bridge Rd",
+        "state": "AL",
+        "count": "(46)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Essential",
+        "address": "2018 Morris Ave",
+        "state": "AL",
+        "count": "(31)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "The Seafood King",
+        "address": "180 State Farm Pkwy",
+        "state": "AL",
+        "count": "(30)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#93"
+    },
+    {
+        "name": "The Fish Market Southside",
+        "address": "612 22nd St S",
+        "state": "AL",
+        "count": "(1,223)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "412 Public House",
+        "address": "412 2nd Ave SE",
+        "state": "AL",
+        "count": "(65)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#9"
+    },
+    {
+        "name": "Glacier BrewHouse",
+        "address": "737 W 5th Ave",
+        "state": "AK",
+        "count": "(5,040)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Bridge Seafood",
+        "address": "221 W Ship Creek Ave",
+        "state": "AK",
+        "count": "(535)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Turnagain Arm Pit BBQ",
+        "address": "27957 Seward Hwy",
+        "state": "AK",
+        "count": "(132)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Seven Glaciers Restaurant",
+        "address": "1000 Arlberg Ave",
+        "state": "AK",
+        "count": "(184)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Tent City Taphouse",
+        "address": "343 W 6th Ave",
+        "state": "AK",
+        "count": "(18)",
+        "pricepoint": "American",
+        "rating": "4.5 ",
+        "ranking": "#69"
+    },
+    {
+        "name": "Kincaid Grill",
+        "address": "6700 Jewel Lake Rd",
+        "state": "AK",
+        "count": "(357)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Aurora Bar and Grill",
+        "address": "1000 Arlberg Ave",
+        "state": "AK",
+        "count": "(229)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Haute Quarter Grill",
+        "address": "525 W 4th Ave",
+        "state": "AK",
+        "count": "(302)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Oscar's Pier 83",
+        "address": "18589 N 59th Ave",
+        "state": "AZ",
+        "count": "(111)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Bluewater Grill - Phoenix",
+        "address": "1525 E Bethany Home Rd",
+        "state": "AZ",
+        "count": "(400)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#43"
+    },
+    {
+        "name": "Pappadeaux Seafood Kitchen",
+        "address": "11051 N Black Canyon Hwy",
+        "state": "AZ",
+        "count": "(1,072)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#28"
+    },
+    {
+        "name": "Lure Fish House",
+        "address": "8877 N Scottsdale Rd",
+        "state": "AZ",
+        "count": "(60)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#204"
+    },
+    {
+        "name": "Chula Seafood",
+        "address": "100 E Camelback Rd",
+        "state": "AZ",
+        "count": "(21)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#104"
+    },
+    {
+        "name": "Playa Hermosa",
+        "address": "1605 E Garfield St",
+        "state": "AZ",
+        "count": "(85)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#33"
+    },
+    {
+        "name": "Eddie V's Prime Seafood",
+        "address": "15323 N Scottsdale Rd",
+        "state": "AZ",
+        "count": "(909)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Rough Rider",
+        "address": "1001 N Central Ave",
+        "state": "AZ",
+        "count": "(7)",
+        "pricepoint": "American",
+        "rating": "4.0 ",
+        "ranking": "#71"
+    },
+    {
+        "name": "Lazy Pete's",
+        "address": "200 N Bowman Rd",
+        "state": "AR",
+        "count": "(85)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "The Oyster Bar",
+        "address": "3003 W Markham St",
+        "state": "AR",
+        "count": "(153)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#19"
+    },
+    {
+        "name": "Oceans at Arthur's",
+        "address": "16100 Chenal Pkwy",
+        "state": "AR",
+        "count": "(203)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Flying Fish",
+        "address": "511 President Clinton Ave",
+        "state": "AR",
+        "count": "(1,742)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Maddie's Place",
+        "address": "1615 Rebsamen Park Rd",
+        "state": "AR",
+        "count": "(160)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#29"
+    },
+    {
+        "name": "Lakewood Fish & Seafood House",
+        "address": "4801 N Hills Blvd",
+        "state": "AR",
+        "count": "(23)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Juicy Seafood",
+        "address": "11600 Pleasant Ridge Rd",
+        "state": "AR",
+        "count": "(13)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.0 ",
+        "ranking": "#157"
+    },
+    {
+        "name": "LuLu's",
+        "address": "5911 R St",
+        "state": "AR",
+        "count": "(31)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Sam's Southern Eatery",
+        "address": "6205 Baseline Rd",
+        "state": "AR",
+        "count": "(3)",
+        "pricepoint": "American",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Boudreaux's Grill & Bar",
+        "address": "9811 Maumelle Blvd",
+        "state": "AR",
+        "count": "(41)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Cajun Crack'n",
+        "address": "7735 N Blackstone Ave",
+        "state": "CA",
+        "count": "(1)",
+        "pricepoint": "American",
+        "rating": "5.0 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Toomey's",
+        "address": "6085 Minaret Rd",
+        "state": "CA",
+        "count": "(517)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Mammoth Rock Brasserie",
+        "address": "3029 Chateau Rd",
+        "state": "CA",
+        "count": "(256)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "South Gate Brewing Company",
+        "address": "40233 Enterprise Dr",
+        "state": "CA",
+        "count": "(955)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "SKADI",
+        "address": "94 Berner St",
+        "state": "CA",
+        "count": "(160)",
+        "pricepoint": "$$$$",
+        "rating": "5.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Eagle's Landing Restaurant",
+        "address": "5587 Hwy 158",
+        "state": "CA",
+        "count": "(245)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "1850 Restaurant",
+        "address": "5114 Hwy 140",
+        "state": "CA",
+        "count": "(639)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "FOB Fried Or Boiled Seafood Fusion",
+        "address": "4280 N Blackstone Ave",
+        "state": "CA",
+        "count": "(14)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "The Elderberry House",
+        "address": "48688 Victoria Ln",
+        "state": "CA",
+        "count": "(334)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Seafood Landing",
+        "address": "3457 W 32nd Ave",
+        "state": "CO",
+        "count": "(7)",
+        "pricepoint": "Seafood",
+        "rating": "4.5 ",
+        "ranking": "#47"
+    },
+    {
+        "name": "Guard and Grace",
+        "address": "1801 California St",
+        "state": "CO",
+        "count": "(896)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#12"
+    },
+    {
+        "name": "The Crawling Crab",
+        "address": "781 S Federal Blvd",
+        "state": "CO",
+        "count": "(45)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#28"
+    },
+    {
+        "name": "Angelo’s Taverna",
+        "address": "620 E 6th Ave",
+        "state": "CO",
+        "count": "(273)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#32"
+    },
+    {
+        "name": "Blue Island Oyster Bar and Seafood",
+        "address": "2625 E 2nd Ave",
+        "state": "CO",
+        "count": "(181)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#100"
+    },
+    {
+        "name": "Pappadeaux Seafood Kitchen",
+        "address": "7520 E Progress Pl",
+        "state": "CO",
+        "count": "(663)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Maine Shack",
+        "address": "1535 Central St",
+        "state": "CO",
+        "count": "(34)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#36"
+    },
+    {
+        "name": "Big Mac & Little Lu's Seafood Restaurant",
+        "address": "2851 W 120th Ave",
+        "state": "CO",
+        "count": "(184)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "The Juicy Seafood",
+        "address": "2727 S Parker Rd",
+        "state": "CO",
+        "count": "(16)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Ocean Prime",
+        "address": "1465 Larimer St",
+        "state": "CO",
+        "count": "(940)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#30"
+    },
+    {
+        "name": "Max's Oyster Bar",
+        "address": "964 Farmington Ave",
+        "state": "CT",
+        "count": "(557)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Salute",
+        "address": "100 Trumbull St",
+        "state": "CT",
+        "count": "(1,087)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "J Gilbert's Wood-Fired Steaks & Seafood",
+        "address": "185 Glastonbury Blvd",
+        "state": "CT",
+        "count": "(718)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Trumbull Kitchen",
+        "address": "150 Trumbull St",
+        "state": "CT",
+        "count": "(518)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "USS Chowder Pot IV",
+        "address": "165 Brainard Rd",
+        "state": "CT",
+        "count": "(476)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Max Fish",
+        "address": "110 Glastonbury Blvd",
+        "state": "CT",
+        "count": "(508)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "River: A Waterfront Restaurant & Bar",
+        "address": "100 Great Meadow Rd",
+        "state": "CT",
+        "count": "(183)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Saybrook Fish House",
+        "address": "2165 Silas Deane Hwy",
+        "state": "CT",
+        "count": "(276)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Mill on the River",
+        "address": "989 Ellington Rd",
+        "state": "CT",
+        "count": "(536)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Capital Grille",
+        "address": "44 Front St",
+        "state": "CT",
+        "count": "(427)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "City Fish Market",
+        "address": "884 Silas Deane Hwy",
+        "state": "CT",
+        "count": "(106)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Zohara",
+        "address": "991 Farmington Ave",
+        "state": "CT",
+        "count": "(179)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Meding's Seafood",
+        "address": "3697 Bay Rd",
+        "state": "DE",
+        "count": "(354)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Cool Springs Fish Bar & Restaurant",
+        "address": "2463 S State St",
+        "state": "DE",
+        "count": "(311)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Pleasanton's Seafood",
+        "address": "6738 N Dupont Hwy",
+        "state": "DE",
+        "count": "(9)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "The Bull On the Barn Bayshore Crab House",
+        "address": "100 Back Rd",
+        "state": "NJ",
+        "count": "(20)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Rick's Seafood House",
+        "address": "435 W Spruce Ave",
+        "state": "NJ",
+        "count": "(186)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Hooked Up Seafood",
+        "address": "1044 W Rio Grande Ave",
+        "state": "NJ",
+        "count": "(141)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "The Surfing Crab",
+        "address": "16723 Coastal Hwy",
+        "state": "DE",
+        "count": "(263)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Matt's Fish Camp Lewes",
+        "address": "34401 Tenley Ct",
+        "state": "DE",
+        "count": "(287)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Boondocks Restaurant & Store",
+        "address": "825 Lighthouse Rd",
+        "state": "DE",
+        "count": "(79)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Sambo's Tavern",
+        "address": "283 Front St",
+        "state": "DE",
+        "count": "(154)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Mike's Seafood",
+        "address": "4222 Park Rd",
+        "state": "NJ",
+        "count": "(391)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Bluecoast Seafood Grill & Raw Bar Rehoboth",
+        "address": "30115 Veterans Way",
+        "state": "DE",
+        "count": "(220)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#14"
+    },
+    {
+        "name": "Big B’s Fish Joint",
+        "address": "4600 Roswell Rd",
+        "state": "GA",
+        "count": "(17)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#34"
+    },
+    {
+        "name": "The Optimist",
+        "address": "914 Howell Mill Rd",
+        "state": "GA",
+        "count": "(973)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#24"
+    },
+    {
+        "name": "Poor Calvin's",
+        "address": "510 Piedmont Ave NE",
+        "state": "GA",
+        "count": "(701)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Louisiana Bistreaux - East Point",
+        "address": "1375 Virginia Ave",
+        "state": "GA",
+        "count": "(693)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Big Ketch Saltwater Grill",
+        "address": "3279 Roswell Rd NE",
+        "state": "GA",
+        "count": "(175)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#211"
+    },
+    {
+        "name": "Pappadeaux Seafood Kitchen",
+        "address": "2830 Windy Hill Rd SE",
+        "state": "GA",
+        "count": "(1,281)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Spondivits",
+        "address": "1219 Virginia Ave",
+        "state": "GA",
+        "count": "(910)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Ray's In the City - Atlanta",
+        "address": "240 Peachtree St NW",
+        "state": "GA",
+        "count": "(1,505)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Paia Fish Market Waikiki",
+        "address": "2299 Kuhio Ave",
+        "state": "HI",
+        "count": "(428)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Ono Seafood",
+        "address": "747 Kapahulu Ave",
+        "state": "HI",
+        "count": "(835)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Karai Crab",
+        "address": "1314 S King St",
+        "state": "HI",
+        "count": "(374)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Hula Grill Waikiki",
+        "address": "2335 Kalakaua Ave",
+        "state": "HI",
+        "count": "(15,649)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "Duke's Waikiki",
+        "address": "2335 Kalakaua Ave",
+        "state": "HI",
+        "count": "(15,649)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "Nico's Pier 38",
+        "address": "1129 N Nimitz Hwy",
+        "state": "HI",
+        "count": "(1,957)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#64"
+    },
+    {
+        "name": "Mitch's Fish Market & Sushi Bar",
+        "address": "524 Ohohia St",
+        "state": "HI",
+        "count": "(106)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#153"
+    },
+    {
+        "name": "53 By The Sea",
+        "address": "53 Ahui St",
+        "state": "HI",
+        "count": "(337)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#95"
+    },
+    {
+        "name": "Basalt",
+        "address": "2255 Kuhio Ave",
+        "state": "HI",
+        "count": "(392)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#23"
+    },
+    {
+        "name": "Herringbone Waikiki",
+        "address": "2330 Kalakaua Ave",
+        "state": "HI",
+        "count": "(241)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#117"
+    },
+    {
+        "name": "Keeaumoku Seafood",
+        "address": "1223 Keeaumoku St",
+        "state": "HI",
+        "count": "(16)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#76"
+    },
+    {
+        "name": "Eating House 1849 - Waikiki",
+        "address": "2330 Kalakaua Ave",
+        "state": "HI",
+        "count": "(369)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Reel Foods Fish Market",
+        "address": "1118 S Vista Ave",
+        "state": "ID",
+        "count": "(30)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#166"
+    },
+    {
+        "name": "Chandlers Prime Steaks & Fine Seafood",
+        "address": "981 W Grove St",
+        "state": "ID",
+        "count": "(1,559)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Barbacoa Grill",
+        "address": "276 W Bobwhite Ct",
+        "state": "ID",
+        "count": "(1,252)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Coa De Jima",
+        "address": "615 W Main St",
+        "state": "ID",
+        "count": "(6)",
+        "pricepoint": "Mexican",
+        "rating": "5.0 ",
+        "ranking": "#49"
+    },
+    {
+        "name": "Luciano's",
+        "address": "11 N Orchard St",
+        "state": "ID",
+        "count": "(365)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#14"
+    },
+    {
+        "name": "Bacquet's Restaurant",
+        "address": "1117 E Winding Creek Dr",
+        "state": "ID",
+        "count": "(108)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "The Basque Market",
+        "address": "608 W Grove St",
+        "state": "ID",
+        "count": "(199)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Kahootz Steak & Alehouse",
+        "address": "1603 N Main St",
+        "state": "ID",
+        "count": "(253)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Fork",
+        "address": "199 N 8th St",
+        "state": "ID",
+        "count": "(1,369)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#9"
+    },
+    {
+        "name": "Joe's Seafood, Prime Steak & Stone Crab",
+        "address": "60 E Grand Ave",
+        "state": "IL",
+        "count": "(4,408)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Lowcountry Lakeview",
+        "address": "3343 N Clark St",
+        "state": "IL",
+        "count": "(62)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#464"
+    },
+    {
+        "name": "The Crab Pad",
+        "address": "2529 N Milwaukee Ave",
+        "state": "IL",
+        "count": "(13)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#76"
+    },
+    {
+        "name": "Shaw's Crab House",
+        "address": "21 E Hubbard St",
+        "state": "IL",
+        "count": "(3,305)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#41"
+    },
+    {
+        "name": "Pappadeaux Seafood Kitchen",
+        "address": "921 Pasquinelli Dr",
+        "state": "IL",
+        "count": "(485)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Cindy's Rooftop",
+        "address": "12 S Michigan Ave",
+        "state": "IL",
+        "count": "(1,006)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#131"
+    },
+    {
+        "name": "Boston Fish Market",
+        "address": "1225 E Forest Ave",
+        "state": "IL",
+        "count": "(433)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Penumbra",
+        "address": "3309 W Fullerton Ave",
+        "state": "IL",
+        "count": "(27)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#856"
+    },
+    {
+        "name": "Maple & Ash",
+        "address": "8 W Maple St",
+        "state": "IL",
+        "count": "(653)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#82"
+    },
+    {
+        "name": "The Boiler Shrimp & Crawfish",
+        "address": "3445 Dempster St",
+        "state": "IL",
+        "count": "(38)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Caplinger's Fresh Catch",
+        "address": "7460 N Shadeland Ave",
+        "state": "IN",
+        "count": "(336)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Stone Creek Dining Company - Plainfield",
+        "address": "2498 Perry Crossing Way",
+        "state": "IN",
+        "count": "(294)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Charbonos",
+        "address": "128 N Avon Ave",
+        "state": "IN",
+        "count": "(176)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Pier 48",
+        "address": "130 S Pennsylvania St",
+        "state": "IN",
+        "count": "(43)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#159"
+    },
+    {
+        "name": "The Putnam Inn",
+        "address": "400 N Jackson St",
+        "state": "IN",
+        "count": "(114)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Coachman Restaurant And Lounge",
+        "address": "6112 Cambridge Way",
+        "state": "IN",
+        "count": "(406)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Noah Grant's",
+        "address": "91 S Main St",
+        "state": "IN",
+        "count": "(216)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "The Oceanaire Seafood Room",
+        "address": "30 S Meridian St",
+        "state": "IN",
+        "count": "(609)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#34"
+    },
+    {
+        "name": "Zydeco's",
+        "address": "11 E Main St",
+        "state": "IN",
+        "count": "(198)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Mesh Restaurant",
+        "address": "725 Massachusetts Ave",
+        "state": "IN",
+        "count": "(475)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#23"
+    },
+    {
+        "name": "Slapfish",
+        "address": "15009 Gray Rd",
+        "state": "IN",
+        "count": "(24)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Aunt Maude's",
+        "address": "547 Main St",
+        "state": "IA",
+        "count": "(264)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Waterfront Seafood Market",
+        "address": "2900 University Ave",
+        "state": "IA",
+        "count": "(372)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "WASABI AMES",
+        "address": "926 S 16th St",
+        "state": "IA",
+        "count": "(9)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#43"
+    },
+    {
+        "name": "Bar La Tosca",
+        "address": "303 Welch Ave",
+        "state": "IA",
+        "count": "(67)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Thai Kitchen",
+        "address": "2410 Chamberlain St",
+        "state": "IA",
+        "count": "(43)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#29"
+    },
+    {
+        "name": "Alohana Hawaiian Grill",
+        "address": "802 SE Oralabor Rd",
+        "state": "IA",
+        "count": "(43)",
+        "pricepoint": "$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Splash Seafood Bar & Grill",
+        "address": "303 Locust St",
+        "state": "IA",
+        "count": "(285)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#28"
+    },
+    {
+        "name": "FUJI Japanese Steakhouse",
+        "address": "1614 S Kellogg Ave",
+        "state": "IA",
+        "count": "(88)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Relish",
+        "address": "834 Park St",
+        "state": "IA",
+        "count": "(96)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "888 Restaurant",
+        "address": "809 Wheeler St",
+        "state": "IA",
+        "count": "(26)",
+        "pricepoint": "$",
+        "rating": "3.5 ",
+        "ranking": "#68"
+    },
+    {
+        "name": "Mr. Cao Japanese Steakhouse",
+        "address": "1505 E 17th Ave",
+        "state": "KS",
+        "count": "(39)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "The Page",
+        "address": "2920 10th St",
+        "state": "KS",
+        "count": "(151)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "King Wok-Hutchinson",
+        "address": "1500 E 11th Ave",
+        "state": "KS",
+        "count": "(3)",
+        "pricepoint": "Chinese",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Martinelli's Little Italy",
+        "address": "158 S Santa Fe Ave",
+        "state": "KS",
+        "count": "(874)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Bayard's Cafe",
+        "address": "540 S Broadway Blvd",
+        "state": "KS",
+        "count": "(33)",
+        "pricepoint": "$",
+        "rating": "4.0 ",
+        "ranking": "#20"
+    },
+    {
+        "name": "Daimaru Steakhouse & Sushi Bar",
+        "address": "3045 S 9th St",
+        "state": "KS",
+        "count": "(244)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Great Wall Super Buffet",
+        "address": "4705 10th St",
+        "state": "KS",
+        "count": "(28)",
+        "pricepoint": "$",
+        "rating": "3.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Olive Garden Italian Restaurant",
+        "address": "2820 S 9th St",
+        "state": "KS",
+        "count": "(147)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Fish House/Cafe Beignet",
+        "address": "1310 Winter Ave",
+        "state": "KY",
+        "count": "(98)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#12"
+    },
+    {
+        "name": "Storming Crab",
+        "address": "1360 Veterans Pkwy",
+        "state": "IN",
+        "count": "(28)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#9"
+    },
+    {
+        "name": "North of Bourbon",
+        "address": "935 Goss Ave",
+        "state": "KY",
+        "count": "(8)",
+        "pricepoint": "American",
+        "rating": "5.0 ",
+        "ranking": "#257"
+    },
+    {
+        "name": "River House",
+        "address": "3015 River Rd",
+        "state": "KY",
+        "count": "(373)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#43"
+    },
+    {
+        "name": "Brendon's Catch 23",
+        "address": "505 S 4th St",
+        "state": "KY",
+        "count": "(347)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#31"
+    },
+    {
+        "name": "Doc Crow's Southern Smokehouse and Raw Bar",
+        "address": "127 W Main St",
+        "state": "KY",
+        "count": "(2,043)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#35"
+    },
+    {
+        "name": "Bonefish Grill",
+        "address": "657 S Hurstbourne Pkwy",
+        "state": "KY",
+        "count": "(222)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#68"
+    },
+    {
+        "name": "Silvio's",
+        "address": "104 Fairfax Ave",
+        "state": "KY",
+        "count": "(109)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#54"
+    },
+    {
+        "name": "Repeal Oak Fired Steakhouse",
+        "address": "101 West Main St",
+        "state": "KY",
+        "count": "(103)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#40"
+    },
+    {
+        "name": "Hooked on Frankfort",
+        "address": "3200 Frankfort Ave",
+        "state": "KY",
+        "count": "(15)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#363"
+    },
+    {
+        "name": "Mussel and Burger Bar Downtown",
+        "address": "113 S 7th St",
+        "state": "KY",
+        "count": "(684)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Parrain's Seafood",
+        "address": "3225 Perkins Rd",
+        "state": "LA",
+        "count": "(1,967)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Ma Mama's Kitchen",
+        "address": "124 W Main St",
+        "state": "LA",
+        "count": "(73)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Morel's Restaurant",
+        "address": "210 Morrison Pkwy",
+        "state": "LA",
+        "count": "(61)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Eagles Nest Restaurant",
+        "address": "1016 N Main St",
+        "state": "ME",
+        "count": "(488)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Anglers Restaurant",
+        "address": "542 Elm St",
+        "state": "ME",
+        "count": "(195)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Dorr Lobster Seafood Market",
+        "address": "579 Broadway",
+        "state": "ME",
+        "count": "(19)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Anglers Restaurant - Hampden",
+        "address": "91 Coldbrook Rd",
+        "state": "ME",
+        "count": "(234)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "McLaughlin Seafood",
+        "address": "728 Main St",
+        "state": "ME",
+        "count": "(167)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#19"
+    },
+    {
+        "name": "High Tide Restaurant & Bar",
+        "address": "5 S Main St",
+        "state": "ME",
+        "count": "(345)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "River Drivers Restaurant",
+        "address": "30 Twin Pines Rd",
+        "state": "ME",
+        "count": "(362)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Blaze",
+        "address": "West Market Sq",
+        "state": "ME",
+        "count": "(470)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "The Fiddlehead Restaurant",
+        "address": "84 Hammond St",
+        "state": "ME",
+        "count": "(271)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "Novio's Bistro",
+        "address": "130 Hammond St",
+        "state": "ME",
+        "count": "(70)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Thames Street Oyster House",
+        "address": "1728 Thames St",
+        "state": "MD",
+        "count": "(2,134)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "L P Steamers",
+        "address": "1100 E Fort Ave",
+        "state": "MD",
+        "count": "(670)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#18"
+    },
+    {
+        "name": "Angie's Seafood",
+        "address": "1727 E Pratt St",
+        "state": "MD",
+        "count": "(180)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#57"
+    },
+    {
+        "name": "Faidley's Seafood",
+        "address": "203 N Paca St",
+        "state": "MD",
+        "count": "(633)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Nicks Fish House",
+        "address": "2600 Insulator Dr",
+        "state": "MD",
+        "count": "(713)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Blackwall Hitch",
+        "address": "700 E Pratt St",
+        "state": "MD",
+        "count": "(44)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#34"
+    },
+    {
+        "name": "Mama's On The Half Shell",
+        "address": "2901 O Donnell St",
+        "state": "MD",
+        "count": "(680)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Mason's Famous Lobster Rolls - Harborplace",
+        "address": "201 E Pratt St",
+        "state": "MD",
+        "count": "(7)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#438"
+    },
+    {
+        "name": "Phillips Seafood",
+        "address": "601 E Pratt St",
+        "state": "MD",
+        "count": "(3,014)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#55"
+    },
+    {
+        "name": "Loch Bar",
+        "address": "240 International Dr",
+        "state": "MD",
+        "count": "(151)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#85"
+    },
+    {
+        "name": "Jimmy's Famous Seafood",
+        "address": "6526 Holabird Ave",
+        "state": "MD",
+        "count": "(714)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#36"
+    },
+    {
+        "name": "Conrad's Crabs & Seafood Market - Parkville",
+        "address": "1720 E Joppa Rd",
+        "state": "MD",
+        "count": "(96)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Blakes Crab House",
+        "address": "5005 Erdman Ave",
+        "state": "MD",
+        "count": "(6)",
+        "pricepoint": "Seafood",
+        "rating": "4.5 ",
+        "ranking": "#64"
+    },
+    {
+        "name": "Neptune Oyster",
+        "address": "63 Salem St",
+        "state": "MA",
+        "count": "(2,050)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#55"
+    },
+    {
+        "name": "The Banks Fish House",
+        "address": "406 Stuart St",
+        "state": "MA",
+        "count": "(32)",
+        "pricepoint": "American",
+        "rating": "4.0 ",
+        "ranking": "#71"
+    },
+    {
+        "name": "Tony's Clam Shop",
+        "address": "861 Quincy Shore Dr",
+        "state": "MA",
+        "count": "(360)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Bootleg Special",
+        "address": "400 Tremont St",
+        "state": "MA",
+        "count": "(50)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Yankee Lobster",
+        "address": "300 Northern Ave",
+        "state": "MA",
+        "count": "(1,155)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "The Daily Catch",
+        "address": "323 Hanover St",
+        "state": "MA",
+        "count": "(965)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#19"
+    },
+    {
+        "name": "Burke's Seafood",
+        "address": "61 Billings Rd",
+        "state": "MA",
+        "count": "(52)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#17"
+    },
+    {
+        "name": "Boston Sail Loft",
+        "address": "80 Atlantic Ave",
+        "state": "MA",
+        "count": "(1,300)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Boiling Crab",
+        "address": "96 Winthrop St",
+        "state": "MA",
+        "count": "(1)",
+        "pricepoint": "Cajun & Creole",
+        "rating": "5.0 ",
+        "ranking": "#20"
+    },
+    {
+        "name": "Atlantic Fish",
+        "address": "761 Boylston St",
+        "state": "MA",
+        "count": "(4,922)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#26"
+    },
+    {
+        "name": "Carmelina's",
+        "address": "307 Hanover St",
+        "state": "MA",
+        "count": "(693)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#12"
+    },
+    {
+        "name": "James Hook & Company",
+        "address": "440 Atlantic Ave",
+        "state": "MA",
+        "count": "(1,738)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Pauli's",
+        "address": "65 Salem St",
+        "state": "MA",
+        "count": "(371)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Joe Muer Seafood",
+        "address": "400 Renaissance Ctr",
+        "state": "MI",
+        "count": "(726)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "SavannahBlue",
+        "address": "1431 Times Square",
+        "state": "MI",
+        "count": "(170)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#35"
+    },
+    {
+        "name": "The Fish Market",
+        "address": "4355 Schaefer Rd",
+        "state": "MI",
+        "count": "(5)",
+        "pricepoint": "Italian",
+        "rating": "3.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Chartreuse",
+        "address": "15 E Kirby St",
+        "state": "MI",
+        "count": "(366)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Besa",
+        "address": "600 Woodward Ave",
+        "state": "MI",
+        "count": "(38)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#66"
+    },
+    {
+        "name": "Takoi",
+        "address": "2520 Michigan Ave",
+        "state": "MI",
+        "count": "(57)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#44"
+    },
+    {
+        "name": "Harbor House",
+        "address": "440 Clinton St",
+        "state": "MI",
+        "count": "(99)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#69"
+    },
+    {
+        "name": "O'Brien's Crabhouse",
+        "address": "621 S Opdyke Rd",
+        "state": "MI",
+        "count": "(90)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Garrido's Bistro",
+        "address": "19605 Mack Ave",
+        "state": "MI",
+        "count": "(46)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Selden Standard",
+        "address": "3921 2nd Ave",
+        "state": "MI",
+        "count": "(683)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Acqua Restaurant-White Bear Lake",
+        "address": "4453 Lake Ave S",
+        "state": "MN",
+        "count": "(246)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Handsome Hog",
+        "address": "173 Western Ave N",
+        "state": "MN",
+        "count": "(216)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#31"
+    },
+    {
+        "name": "Harvey's Fish Hut",
+        "address": "109 Jones Dr",
+        "state": "MS",
+        "count": "(19)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Shaggy's On The Rez",
+        "address": "1733 Spillway Rd",
+        "state": "MS",
+        "count": "(102)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Jax Fish House & Oyster Bar",
+        "address": "4814 Roanoke Pkwy",
+        "state": "MO",
+        "count": "(261)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Jarocho",
+        "address": "719 Kansas Ave",
+        "state": "KS",
+        "count": "(65)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Krab Kingz",
+        "address": "3805 Broadway Blvd",
+        "state": "MO",
+        "count": "(8)",
+        "pricepoint": "$$ - $$$",
+        "rating": "5.0 ",
+        "ranking": "#17"
+    },
+    {
+        "name": "The Fish Market",
+        "address": "1120 E Old State Route 210",
+        "state": "MO",
+        "count": "(110)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "BRISTOL SEAFOOD GRILL",
+        "address": "51 E 14th St",
+        "state": "MO",
+        "count": "(759)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#24"
+    },
+    {
+        "name": "Eddie V's Prime Seafood",
+        "address": "700 W 47th St",
+        "state": "MO",
+        "count": "(217)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Jumpin Catfish Restaurant",
+        "address": "1861 S Ridgeview Rd",
+        "state": "KS",
+        "count": "(144)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "J Gilbert's Wood-Fired Steaks & Seafood",
+        "address": "8901 Metcalf Ave",
+        "state": "KS",
+        "count": "(578)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Rockhill Grille",
+        "address": "2000 Grand Blvd",
+        "state": "MO",
+        "count": "(117)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#42"
+    },
+    {
+        "name": "Cajun Phatty's",
+        "address": "2564 King Ave W",
+        "state": "MT",
+        "count": "(61)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#14"
+    },
+    {
+        "name": "Montana's Rib and Chop House - Billings",
+        "address": "1849 Majestic Ln",
+        "state": "MT",
+        "count": "(949)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Walkers",
+        "address": "2700 1st Ave N",
+        "state": "MT",
+        "count": "(448)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Fieldhouse",
+        "address": "2601 Minnesota Ave",
+        "state": "MT",
+        "count": "(209)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Bistro Enzo",
+        "address": "1502 Rehberg Ln",
+        "state": "MT",
+        "count": "(277)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Jake's Bar & Grill",
+        "address": "2425 Gabel Rd",
+        "state": "MT",
+        "count": "(308)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#12"
+    },
+    {
+        "name": "Jake’s Downtown",
+        "address": "2701 1st Ave N",
+        "state": "MT",
+        "count": "(705)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Red Lobster",
+        "address": "2250 King Ave W",
+        "state": "MT",
+        "count": "(190)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#49"
+    },
+    {
+        "name": "HuHot Mongolian Grill",
+        "address": "1806 King Ave W",
+        "state": "MT",
+        "count": "(117)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#83"
+    },
+    {
+        "name": "The Montana Club - Billings Restaurant",
+        "address": "1791 Majestic Ln",
+        "state": "MT",
+        "count": "(236)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#23"
+    },
+    {
+        "name": "Nara Restaurant",
+        "address": "3 Custer Ave",
+        "state": "MT",
+        "count": "(77)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#57"
+    },
+    {
+        "name": "Plank Seafood Provisions",
+        "address": "1205 Howard St",
+        "state": "NE",
+        "count": "(775)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Shucks Pacific Fish House and Oyster Bar",
+        "address": "1218 S 119th St",
+        "state": "NE",
+        "count": "(168)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#33"
+    },
+    {
+        "name": "Sebastian’s Southern Crab",
+        "address": "843 N 98th St",
+        "state": "NE",
+        "count": "(1)",
+        "pricepoint": "American",
+        "rating": "4.0 ",
+        "ranking": "#258"
+    },
+    {
+        "name": "Shucks Fish House & Oyster Bar",
+        "address": "1911 Leavenworth St",
+        "state": "NE",
+        "count": "(109)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#45"
+    },
+    {
+        "name": "Bonefish Grill",
+        "address": "120 Regency Pkwy",
+        "state": "NE",
+        "count": "(210)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#54"
+    },
+    {
+        "name": "Acadian Grille Scratch Kitchen",
+        "address": "725 N 114th St",
+        "state": "NE",
+        "count": "(35)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#103"
+    },
+    {
+        "name": "Twisted Cork Bistro",
+        "address": "10730 Pacific St",
+        "state": "NE",
+        "count": "(158)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "J Gilbert's Wood-Fired Steaks And Seafood",
+        "address": "1010 Capitol Ave",
+        "state": "NE",
+        "count": "(96)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#24"
+    },
+    {
+        "name": "Herbe Sainte",
+        "address": "1934 S 67th St",
+        "state": "NE",
+        "count": "(54)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#58"
+    },
+    {
+        "name": "Stage Stop Cafe",
+        "address": "1137 S Main St",
+        "state": "NV",
+        "count": "(184)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Little Red Schoolhouse",
+        "address": "1994 US",
+        "state": "NH",
+        "count": "(209)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Common Man Restaurant",
+        "address": "10 Pollard Rd",
+        "state": "NH",
+        "count": "(1,697)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Lobster Trap",
+        "address": "2840 W Side Rd",
+        "state": "NH",
+        "count": "(592)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#14"
+    },
+    {
+        "name": "The Big Catch",
+        "address": "150 Shore Dr",
+        "state": "NH",
+        "count": "(97)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Merland's Tap & Table",
+        "address": "96 Main St",
+        "state": "NH",
+        "count": "(44)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Covered Bridge Farm Table",
+        "address": "57 Blair Rd",
+        "state": "NH",
+        "count": "(306)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Lobster Connection",
+        "address": "1007 Laconia Rd",
+        "state": "NH",
+        "count": "(58)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Rustic River Restaurant",
+        "address": "5 Main St",
+        "state": "NH",
+        "count": "(183)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Casa d'Paco",
+        "address": "73 Warwick St",
+        "state": "NJ",
+        "count": "(84)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Seabra Marisqueira",
+        "address": "87 Madison St",
+        "state": "NJ",
+        "count": "(350)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Valença Restaurant",
+        "address": "665 Monroe Ave",
+        "state": "NJ",
+        "count": "(552)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Sabor Unido",
+        "address": "77 Jefferson St",
+        "state": "NJ",
+        "count": "(42)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#20"
+    },
+    {
+        "name": "Allegro Seafood Grill",
+        "address": "58 Kossuth St",
+        "state": "NJ",
+        "count": "(57)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Fernandes Steak House",
+        "address": "158 Fleming Ave",
+        "state": "NJ",
+        "count": "(269)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Q'tal Bar & Grill",
+        "address": "3 Kearny Ave",
+        "state": "NJ",
+        "count": "(4)",
+        "pricepoint": "American",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Seared",
+        "address": "119 San Pasquale Ave SW",
+        "state": "NM",
+        "count": "(94)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#53"
+    },
+    {
+        "name": "Sharkys",
+        "address": "5420 Central Ave SW",
+        "state": "NM",
+        "count": "(74)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "Antiquity Restaurant",
+        "address": "112 Romero St NW",
+        "state": "NM",
+        "count": "(901)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Slapfish",
+        "address": "2100 Louisiana Blvd NE",
+        "state": "NM",
+        "count": "(13)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#137"
+    },
+    {
+        "name": "Mariscos Altamar",
+        "address": "1517 Coors Blvd NW",
+        "state": "NM",
+        "count": "(228)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#31"
+    },
+    {
+        "name": "Mac's La Sierra Family Restaurant",
+        "address": "6217 Central Ave NW",
+        "state": "NM",
+        "count": "(72)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#46"
+    },
+    {
+        "name": "505 Central Food Hall",
+        "address": "505 Central Ave NW",
+        "state": "NM",
+        "count": "(4)",
+        "pricepoint": "Mexican",
+        "rating": "4.5 ",
+        "ranking": "#111"
+    },
+    {
+        "name": "Mariscos La Playa",
+        "address": "5210 San Mateo Blvd NE",
+        "state": "NM",
+        "count": "(33)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#284"
+    },
+    {
+        "name": "Pelican's Restaurant",
+        "address": "9800 Montgomery Blvd NE",
+        "state": "NM",
+        "count": "(173)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#147"
+    },
+    {
+        "name": "Tucanos Brazilian Grill",
+        "address": "110 Central Ave SW",
+        "state": "NM",
+        "count": "(494)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Da Andrea",
+        "address": "35 W 13th St",
+        "state": "NY",
+        "count": "(356)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#154"
+    },
+    {
+        "name": "Fishmarket Restaurant",
+        "address": "111 South St",
+        "state": "NY",
+        "count": "(36)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#163"
+    },
+    {
+        "name": "Upstate Craft Beer & Oyster Bar",
+        "address": "95 1st Ave",
+        "state": "NY",
+        "count": "(143)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#47"
+    },
+    {
+        "name": "Fish Cheeks",
+        "address": "55 Bond St",
+        "state": "NY",
+        "count": "(64)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#119"
+    },
+    {
+        "name": "Sea Fire Grill",
+        "address": "158 E 48th St",
+        "state": "NY",
+        "count": "(1,135)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#127"
+    },
+    {
+        "name": "Sagaponack",
+        "address": "4 W 22nd St",
+        "state": "NY",
+        "count": "(104)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#68"
+    },
+    {
+        "name": "Greenpoint Fish & Lobster",
+        "address": "114 Nassau Ave",
+        "state": "NY",
+        "count": "(50)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#183"
+    },
+    {
+        "name": "Sea Level NC",
+        "address": "129 E 5th St",
+        "state": "NC",
+        "count": "(237)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#35"
+    },
+    {
+        "name": "Krustaceans Seafood - Charlotte",
+        "address": "2908 Oak Lake Blvd",
+        "state": "NC",
+        "count": "(6)",
+        "pricepoint": "Cajun & Creole",
+        "rating": "4.5 ",
+        "ranking": "#670"
+    },
+    {
+        "name": "Pearlz Oyster Bar",
+        "address": "7804 Rea Rd",
+        "state": "NC",
+        "count": "(101)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#127"
+    },
+    {
+        "name": "Shake Shake Seafood",
+        "address": "9925 Leitner Dr",
+        "state": "NC",
+        "count": "(6)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "The Waterman Fish Bar",
+        "address": "2729 South Blvd",
+        "state": "NC",
+        "count": "(31)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#21"
+    },
+    {
+        "name": "Pier 51",
+        "address": "3921 Mt Gallant Rd",
+        "state": "SC",
+        "count": "(72)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#35"
+    },
+    {
+        "name": "Cajun Queen",
+        "address": "1800 E 7th St",
+        "state": "NC",
+        "count": "(486)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#24"
+    },
+    {
+        "name": "Crab Du Jour - Charlotte",
+        "address": "1015 Chancellor Park Dr",
+        "state": "NC",
+        "count": "(9)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#42"
+    },
+    {
+        "name": "Mizu",
+        "address": "3100 Apex Dr",
+        "state": "NC",
+        "count": "(8)",
+        "pricepoint": "Bar",
+        "rating": "5.0 ",
+        "ranking": "#358"
+    },
+    {
+        "name": "STIR Charlotte",
+        "address": "1422 S Tryon St",
+        "state": "NC",
+        "count": "(12)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Deep Blue Seafood",
+        "address": "4480 23rd Ave S",
+        "state": "ND",
+        "count": "(27)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Porter Creek Hardwood Grill",
+        "address": "1555 44th St S",
+        "state": "ND",
+        "count": "(271)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "The Toasted Frog",
+        "address": "305 Broadway N",
+        "state": "ND",
+        "count": "(155)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#15"
+    },
+    {
+        "name": "Red Lobster",
+        "address": "4215 13th Ave S",
+        "state": "ND",
+        "count": "(139)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#26"
+    },
+    {
+        "name": "Rustica Eatery & Tavern",
+        "address": "315 Main Ave",
+        "state": "MN",
+        "count": "(106)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Doolittles Woodfire Grill",
+        "address": "2112 25th St S",
+        "state": "ND",
+        "count": "(735)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Mezzaluna",
+        "address": "309 Roberts St",
+        "state": "ND",
+        "count": "(354)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Kobe's Japanese Cuisine",
+        "address": "4228 15th Ave S",
+        "state": "ND",
+        "count": "(87)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Samurai Restaurant",
+        "address": "1775 45th St S",
+        "state": "ND",
+        "count": "(47)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Kai's Crab Boil",
+        "address": "839 Bethel Rd",
+        "state": "OH",
+        "count": "(36)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#276"
+    },
+    {
+        "name": "Lee's Seafood Boil - Columbus",
+        "address": "1446 Bethel Rd",
+        "state": "OH",
+        "count": "(19)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#21"
+    },
+    {
+        "name": "Watts Restaurant",
+        "address": "77 S Main St",
+        "state": "OH",
+        "count": "(81)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Alcove Restaurant & Lounge",
+        "address": "116 S Main St",
+        "state": "OH",
+        "count": "(208)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Rake's Place",
+        "address": "2207 Linden Ave",
+        "state": "OH",
+        "count": "(24)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Bonefish Grill",
+        "address": "1930 Polaris Pkwy",
+        "state": "OH",
+        "count": "(193)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Muddy Misers",
+        "address": "112 Muskingum Ave",
+        "state": "OH",
+        "count": "(388)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Frank's Fish & Seafood Market",
+        "address": "5251 Trabue Rd",
+        "state": "OH",
+        "count": "(30)",
+        "pricepoint": "$$ - $$$",
+        "rating": "5.0 ",
+        "ranking": "#134"
+    },
+    {
+        "name": "Prairiefire",
+        "address": "422 S Main St",
+        "state": "OK",
+        "count": "(410)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Fred's Famous Fish & Steak House",
+        "address": "2011 N Main St",
+        "state": "OK",
+        "count": "(80)",
+        "pricepoint": "$",
+        "rating": "3.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Sakura",
+        "address": "212 E Broadway St",
+        "state": "OK",
+        "count": "(40)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Wong's Restaurant",
+        "address": "712 Opal Ave",
+        "state": "OK",
+        "count": "(75)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Interurban",
+        "address": "300 E Grand Ave",
+        "state": "OK",
+        "count": "(72)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Club Pioneer",
+        "address": "1851 NE 3rd St",
+        "state": "OR",
+        "count": "(241)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Diego's Spirited Kitchen",
+        "address": "447 SW 6th St",
+        "state": "OR",
+        "count": "(552)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Brickhouse",
+        "address": "412 SW 6th St",
+        "state": "OR",
+        "count": "(193)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#9"
+    },
+    {
+        "name": "Barney Prine's Steakhouse & Saloon",
+        "address": "389 NW 4th St",
+        "state": "OR",
+        "count": "(129)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Brickhouse - Bend",
+        "address": "5 NW Minnesota Ave",
+        "state": "OR",
+        "count": "(215)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#22"
+    },
+    {
+        "name": "Zydeco Kitchen & Cocktails",
+        "address": "919 NW Bond St",
+        "state": "OR",
+        "count": "(1,288)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Anthony's At The Old Mill District",
+        "address": "475 SW Powerhouse Dr",
+        "state": "OR",
+        "count": "(549)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Dillon's Grill",
+        "address": "142 NE 5th St",
+        "state": "OR",
+        "count": "(169)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Roszaks Fish House",
+        "address": "1230 NE 3rd St",
+        "state": "OR",
+        "count": "(25)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.0 ",
+        "ranking": "#124"
+    },
+    {
+        "name": "Drake Downtown Bend",
+        "address": "801 NW Wall St",
+        "state": "OR",
+        "count": "(439)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Crux Fermentation Project",
+        "address": "50 SW Division St",
+        "state": "OR",
+        "count": "(678)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Oyster House",
+        "address": "1516 Sansom St",
+        "state": "PA",
+        "count": "(924)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#28"
+    },
+    {
+        "name": "Barbuzzo",
+        "address": "110 S 13th St",
+        "state": "PA",
+        "count": "(811)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#36"
+    },
+    {
+        "name": "Friday Saturday Sunday",
+        "address": "261 S 21st St",
+        "state": "PA",
+        "count": "(95)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#175"
+    },
+    {
+        "name": "Luke's Lobster Rittenhouse",
+        "address": "130 S 17th St",
+        "state": "PA",
+        "count": "(299)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Providence Oyster Bar",
+        "address": "283 Atwells Ave",
+        "state": "RI",
+        "count": "(387)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#12"
+    },
+    {
+        "name": "Dune Brothers",
+        "address": "239 Dyer St",
+        "state": "RI",
+        "count": "(34)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Hemenway's Restaurant",
+        "address": "121 S Main St",
+        "state": "RI",
+        "count": "(1,549)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Waterman Grille",
+        "address": "4 Richmond Sq",
+        "state": "RI",
+        "count": "(731)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Capri Seafood",
+        "address": "58 De Pasquale Ave",
+        "state": "RI",
+        "count": "(25)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Broadway Bistro",
+        "address": "205 Broadway",
+        "state": "RI",
+        "count": "(105)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#19"
+    },
+    {
+        "name": "Brothers Seafood Restaurant",
+        "address": "6 Olney St",
+        "state": "MA",
+        "count": "(24)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Iggy's Doughboys & Chowder House - Warwick ",
+        "address": "889 Oakland Beach Ave",
+        "state": "RI",
+        "count": "(588)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Red Stripe",
+        "address": "465 Angell St",
+        "state": "RI",
+        "count": "(437)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#27"
+    },
+    {
+        "name": "Aguardente",
+        "address": "12 Governor St",
+        "state": "RI",
+        "count": "(1)",
+        "pricepoint": "International",
+        "rating": "5.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Blount Clam Shack on the Waterfront",
+        "address": "335 Water St",
+        "state": "RI",
+        "count": "(184)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Los Andes Restaurant",
+        "address": "903 Chalkstone Ave",
+        "state": "RI",
+        "count": "(1,383)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Camille's",
+        "address": "71 Bradford St",
+        "state": "RI",
+        "count": "(343)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "The Shanty",
+        "address": "3854 Post Rd",
+        "state": "RI",
+        "count": "(133)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Massimo Restaurant",
+        "address": "134 Atwells Ave",
+        "state": "RI",
+        "count": "(705)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Garners Ferry Seafood & More",
+        "address": "8006 Garners Ferry Rd",
+        "state": "SC",
+        "count": "(1)",
+        "pricepoint": "Seafood",
+        "rating": "4.0 ",
+        "ranking": "#24"
+    },
+    {
+        "name": "Wild Crab",
+        "address": "275 Park Terrace Dr",
+        "state": "SC",
+        "count": "(19)",
+        "pricepoint": "$$ - $$$",
+        "rating": "2.5 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Palmetto Seafood Company",
+        "address": "2200 Gervais St",
+        "state": "SC",
+        "count": "(17)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Blue Marlin",
+        "address": "1200 Lincoln St",
+        "state": "SC",
+        "count": "(1,520)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Mr. Seafood",
+        "address": "3902 Two Notch Rd",
+        "state": "SC",
+        "count": "(5)",
+        "pricepoint": "Seafood",
+        "rating": "3.0 ",
+        "ranking": "#28"
+    },
+    {
+        "name": "Golden Bay Seafood Restaurant",
+        "address": "6164 Saint Andrews Rd",
+        "state": "SC",
+        "count": "(41)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Hutto Seafood Market and Kitchen",
+        "address": "1175 Hutto St",
+        "state": "SC",
+        "count": "(25)",
+        "pricepoint": "$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Bourbon",
+        "address": "1214 Main St",
+        "state": "SC",
+        "count": "(341)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Backstreets Grill",
+        "address": "2400 Devine St",
+        "state": "SC",
+        "count": "(17)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Crafty Crab",
+        "address": "245 Oneil Ct",
+        "state": "SC",
+        "count": "(6)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#22"
+    },
+    {
+        "name": "Mr Friendly's New Southern Cafe",
+        "address": "2001 Greene St",
+        "state": "SC",
+        "count": "(578)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Palmetto Oyster House",
+        "address": "415 W Wesmark Blvd",
+        "state": "SC",
+        "count": "(251)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "The Juicy Crab Columbia",
+        "address": "1304 Bower Pkwy",
+        "state": "SC",
+        "count": "(12)",
+        "pricepoint": "$$ - $$$",
+        "rating": "2.5 ",
+        "ranking": "#33"
+    },
+    {
+        "name": "Black Rooster",
+        "address": "201 Meeting St",
+        "state": "SC",
+        "count": "(25)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Oak Grove Fish House",
+        "address": "309 Oak Dr",
+        "state": "SC",
+        "count": "(53)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "22TEN Kitchen Cocktails",
+        "address": "2210 W 69th St",
+        "state": "SD",
+        "count": "(50)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#37"
+    },
+    {
+        "name": "Grille 26",
+        "address": "1716 S Western Ave",
+        "state": "SD",
+        "count": "(474)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Morrie's Steakhouse",
+        "address": "2507 S Shirley Ave",
+        "state": "SD",
+        "count": "(97)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#32"
+    },
+    {
+        "name": "Minervas Restaurant - Sioux Falls",
+        "address": "301 S Phillips Ave",
+        "state": "SD",
+        "count": "(1,073)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "ROAM Kitchen + Bar",
+        "address": "4525 W Empire Pl",
+        "state": "SD",
+        "count": "(86)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#27"
+    },
+    {
+        "name": "Parker's Bistro",
+        "address": "210 S Main Ave",
+        "state": "SD",
+        "count": "(238)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Sushi-Masa Japanese Restaurant",
+        "address": "423 S Phillips Ave",
+        "state": "SD",
+        "count": "(96)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Red Lobster",
+        "address": "3901 W 41st St",
+        "state": "SD",
+        "count": "(106)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Lam's Vietnamese Restaurant",
+        "address": "1600 E Rice St",
+        "state": "SD",
+        "count": "(100)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#41"
+    },
+    {
+        "name": "Johnny Carino's",
+        "address": "2310 S Louise Ave",
+        "state": "SD",
+        "count": "(366)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Granny Fishes' House",
+        "address": "340 Shippmans Creek Rd",
+        "state": "TN",
+        "count": "(57)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Crab Fever",
+        "address": "1720 Old Fort Pkwy",
+        "state": "TN",
+        "count": "(2)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "Juicy Seafood-Smyrna",
+        "address": "267 N Lowry St",
+        "state": "TN",
+        "count": "(2)",
+        "pricepoint": "$$ - $$$",
+        "rating": "5.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Crawdaddys West Side Grill",
+        "address": "53 W Broad St",
+        "state": "TN",
+        "count": "(748)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Moby Dicky's",
+        "address": "155 Sanders Ferry Rd",
+        "state": "TN",
+        "count": "(117)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Bluegill Grill",
+        "address": "912 Old Awalt Rd",
+        "state": "TN",
+        "count": "(99)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "La Lucha",
+        "address": "1801 N Shepherd Dr",
+        "state": "TX",
+        "count": "(29)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#262"
+    },
+    {
+        "name": "Goode Company Seafood",
+        "address": "2621 Westpark Dr",
+        "state": "TX",
+        "count": "(760)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#31"
+    },
+    {
+        "name": "Lotus Seafood",
+        "address": "2825 S Kirkwood Rd",
+        "state": "TX",
+        "count": "(23)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#213"
+    },
+    {
+        "name": "Pier 6",
+        "address": "113 6th St",
+        "state": "TX",
+        "count": "(46)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Original Connie's Seafood Market & Restaurant",
+        "address": "2525 Airline Dr",
+        "state": "TX",
+        "count": "(28)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#642"
+    },
+    {
+        "name": "State of Grace",
+        "address": "3258 Westheimer Rd",
+        "state": "TX",
+        "count": "(249)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#19"
+    },
+    {
+        "name": "Louisiana Fish House",
+        "address": "1402 Spring Cypress Rd",
+        "state": "TX",
+        "count": "(13)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Pier Eight Seafood Fish Market",
+        "address": "409 Todville Rd",
+        "state": "TX",
+        "count": "(52)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Boil House",
+        "address": "606 E 11th St",
+        "state": "TX",
+        "count": "(15)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#171"
+    },
+    {
+        "name": "Liberty Kitchen & Oysterette",
+        "address": "4224 San Felipe",
+        "state": "TX",
+        "count": "(184)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#185"
+    },
+    {
+        "name": "CAJUN BOIL",
+        "address": "618 E 400 S",
+        "state": "UT",
+        "count": "(2)",
+        "pricepoint": "Cajun & Creole",
+        "rating": "3.0 ",
+        "ranking": "#22"
+    },
+    {
+        "name": "Market Street Grill",
+        "address": "48 W Market St",
+        "state": "UT",
+        "count": "(1,397)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#31"
+    },
+    {
+        "name": "The Bayou",
+        "address": "645 S State St",
+        "state": "UT",
+        "count": "(403)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#26"
+    },
+    {
+        "name": "Kimi's Chop & Oyster House",
+        "address": "2155 S Highland Dr",
+        "state": "UT",
+        "count": "(100)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#71"
+    },
+    {
+        "name": "The Copper Onion",
+        "address": "111 E Broadway",
+        "state": "UT",
+        "count": "(1,071)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#16"
+    },
+    {
+        "name": "Bambara",
+        "address": "202 S Main St",
+        "state": "UT",
+        "count": "(675)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Elixir Restaurant",
+        "address": "188 S Main St",
+        "state": "VT",
+        "count": "(477)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Tozier's Restaurant",
+        "address": "2678 River St",
+        "state": "VT",
+        "count": "(127)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Murphy’s on the Green",
+        "address": "11 S Main St",
+        "state": "NH",
+        "count": "(661)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Little Red Schoolhouse",
+        "address": "1994 US",
+        "state": "NH",
+        "count": "(209)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Thyme",
+        "address": "85 N Main St",
+        "state": "VT",
+        "count": "(417)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Ariana's Restaurant",
+        "address": "1 Market St",
+        "state": "NH",
+        "count": "(204)",
+        "pricepoint": "$$$$",
+        "rating": "5.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Worthy Kitchen",
+        "address": "442 E Woodstock Rd",
+        "state": "VT",
+        "count": "(780)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Chef Brad's Crazy Side",
+        "address": "1 Quechee Main St",
+        "state": "VT",
+        "count": "(85)",
+        "pricepoint": "$",
+        "rating": "5.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Blue Stone Inn",
+        "address": "9107 N Valley Pike",
+        "state": "VA",
+        "count": "(105)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Fishin' Pig",
+        "address": "117 Apple Tree Ln",
+        "state": "VA",
+        "count": "(276)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Dayton Tavern",
+        "address": "245 Main St",
+        "state": "VA",
+        "count": "(50)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "The Red Hen",
+        "address": "11 E Washington St",
+        "state": "VA",
+        "count": "(438)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Depot Grille",
+        "address": "42 Middlebrook Ave",
+        "state": "VA",
+        "count": "(729)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "The Mill Street Grill",
+        "address": "1 Mill St",
+        "state": "VA",
+        "count": "(1,604)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Local Chop & Grill House",
+        "address": "56 W Gay St",
+        "state": "VA",
+        "count": "(648)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Bistro on Main",
+        "address": "8 N Main St",
+        "state": "VA",
+        "count": "(676)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "The Green Leaf Grill",
+        "address": "415 W Main St",
+        "state": "VA",
+        "count": "(760)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Yodelin",
+        "address": "633 Front St",
+        "state": "WA",
+        "count": "(99)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#11"
+    },
+    {
+        "name": "Watershed Cafe",
+        "address": "221 8th St",
+        "state": "WA",
+        "count": "(284)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Sunset Cafe",
+        "address": "318 E 1st St",
+        "state": "WA",
+        "count": "(279)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Oyama Sushi & Steakhouse",
+        "address": "506 S Main St",
+        "state": "WA",
+        "count": "(49)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "South - Leavenworth",
+        "address": "913 Front St",
+        "state": "WA",
+        "count": "(714)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#7"
+    },
+    {
+        "name": "Mozart's Steakhouse",
+        "address": "829 Front St",
+        "state": "WA",
+        "count": "(655)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#8"
+    },
+    {
+        "name": "The Windmill",
+        "address": "1501 N Wenatchee Ave",
+        "state": "WA",
+        "count": "(212)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Mama Vallone's Steak House",
+        "address": "302 W 1st St",
+        "state": "WA",
+        "count": "(97)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Portals",
+        "address": "3600 Suncadia Trl",
+        "state": "WA",
+        "count": "(295)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Sulla Vita",
+        "address": "931 Front St",
+        "state": "WA",
+        "count": "(281)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Visconti's Italian Restaurant",
+        "address": "636 Front St",
+        "state": "WA",
+        "count": "(995)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "Atlas Fare",
+        "address": "137 N Wenatchee Ave",
+        "state": "WA",
+        "count": "(10)",
+        "pricepoint": "$$$$",
+        "rating": "5.0 ",
+        "ranking": "#36"
+    },
+    {
+        "name": "Blue Rock Saloon & Steakhouse",
+        "address": "404 N Pine St",
+        "state": "WA",
+        "count": "(19)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#13"
+    },
+    {
+        "name": "Tidewater Grill",
+        "address": "1060 Charleston Town Ctr",
+        "state": "WV",
+        "count": "(761)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "French Quarter Restaurant",
+        "address": "1 Greyhound Dr",
+        "state": "WV",
+        "count": "(50)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#3"
+    },
+    {
+        "name": "The Chop House",
+        "address": "1003 Charleston Town Ctr",
+        "state": "WV",
+        "count": "(206)",
+        "pricepoint": "$$$$",
+        "rating": "4.0 ",
+        "ranking": "#9"
+    },
+    {
+        "name": "Shuckers",
+        "address": "70 Olde Main Plz",
+        "state": "WV",
+        "count": "(59)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Ichiban Pan-Asian Cuisine",
+        "address": "103 Capitol St",
+        "state": "WV",
+        "count": "(65)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "Red Lobster",
+        "address": "101 Cross Terrace Blvd",
+        "state": "WV",
+        "count": "(83)",
+        "pricepoint": "$$ - $$$",
+        "rating": "3.5 ",
+        "ranking": "#56"
+    },
+    {
+        "name": "Rio De Grill",
+        "address": "3600 Maccorkle Ave SE",
+        "state": "WV",
+        "count": "(58)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Soho's",
+        "address": "800 Smith St",
+        "state": "WV",
+        "count": "(253)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#10"
+    },
+    {
+        "name": "Black Sheep Burrito and Brews",
+        "address": "702 Quarrier St",
+        "state": "WV",
+        "count": "(597)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#5"
+    },
+    {
+        "name": "St Paul Fish Company",
+        "address": "400 N Water St",
+        "state": "WI",
+        "count": "(1,022)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#6"
+    },
+    {
+        "name": "Third Coast Provisions",
+        "address": "724 N Milwaukee St",
+        "state": "WI",
+        "count": "(78)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#4"
+    },
+    {
+        "name": "Harbor House",
+        "address": "550 N Harbor Dr",
+        "state": "WI",
+        "count": "(1,157)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#17"
+    },
+    {
+        "name": "Crawdaddy's on Greenfield",
+        "address": "9427 W Greenfield Ave",
+        "state": "WI",
+        "count": "(140)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#2"
+    },
+    {
+        "name": "Maxie's",
+        "address": "6732 W Fairview Ave",
+        "state": "WI",
+        "count": "(341)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Milwaukee Sail Loft",
+        "address": "649 E Erie St",
+        "state": "WI",
+        "count": "(160)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#110"
+    },
+    {
+        "name": "Onesto",
+        "address": "221 N Broadway",
+        "state": "WI",
+        "count": "(272)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#34"
+    },
+    {
+        "name": "Momo Mee",
+        "address": "110 E Greenfield Ave",
+        "state": "WI",
+        "count": "(15)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#241"
+    },
+    {
+        "name": "Twisted Fisherman",
+        "address": "1200 W Canal St",
+        "state": "WI",
+        "count": "(136)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.0 ",
+        "ranking": "#154"
+    },
+    {
+        "name": "Eddie Martini's",
+        "address": "8612 W Watertown Plank Rd",
+        "state": "WI",
+        "count": "(260)",
+        "pricepoint": "$$$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Bonefish Grill",
+        "address": "18355 W Bluemound Rd",
+        "state": "WI",
+        "count": "(311)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#1"
+    },
+    {
+        "name": "Movida",
+        "address": "600 S 6th St",
+        "state": "WI",
+        "count": "(200)",
+        "pricepoint": "$$ - $$$",
+        "rating": "4.5 ",
+        "ranking": "#42"
+    }
+]
